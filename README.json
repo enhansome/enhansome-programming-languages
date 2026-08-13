@@ -14,7 +14,7 @@
             "last_commit": "2026-08-08T23:51:18Z",
             "owner": "alda-lang",
             "repo": "alda",
-            "stars": 5936
+            "stars": 5938
           }
         },
         {
@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "Haskell",
-            "last_commit": "2026-08-10T16:54:57Z",
+            "last_commit": "2026-08-13T15:11:51Z",
             "owner": "agda",
             "repo": "agda",
             "stars": 2912
@@ -56,7 +56,7 @@
             "last_commit": "2025-07-28T23:44:49Z",
             "owner": "austral",
             "repo": "austral",
-            "stars": 1561
+            "stars": 1562
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2025-02-25T11:07:38Z",
             "owner": "JetBrains",
             "repo": "Arend",
-            "stars": 754
+            "stars": 755
           }
         },
         {
@@ -140,7 +140,7 @@
             "last_commit": "2026-05-29T10:05:27Z",
             "owner": "phantomics",
             "repo": "april",
-            "stars": 660
+            "stars": 655
           }
         },
         {
@@ -277,7 +277,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T20:57:28Z",
+            "last_commit": "2026-08-13T13:52:57Z",
             "owner": "jasisz",
             "repo": "aver",
             "stars": 58
@@ -434,9 +434,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:10:06.576Z",
+    "last_updated": "2026-08-13T15:35:49.478Z",
     "original_repository": "ChessMax/awesome-programming-languages",
-    "original_repository_sha": "37828c086c34141cd67598109ce638664ab3e9e5",
+    "original_repository_sha": "9eaf1f009d71bd2e1ac0dd88c3620310de225975",
     "enhanced_repository": "enhansome/enhansome-programming-languages",
     "enhanced_repository_description": null,
     "title": "Awesome programming languages with stars"
