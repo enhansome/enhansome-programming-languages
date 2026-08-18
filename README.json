@@ -14,7 +14,7 @@
             "last_commit": "2026-08-15T01:43:05Z",
             "owner": "alda-lang",
             "repo": "alda",
-            "stars": 5940
+            "stars": 5938
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Haskell",
-            "last_commit": "2026-08-14T17:59:06Z",
+            "last_commit": "2026-08-18T14:16:53Z",
             "owner": "agda",
             "repo": "agda",
-            "stars": 2914
+            "stars": 2916
           }
         },
         {
@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T02:39:59Z",
+            "last_commit": "2026-08-17T20:36:28Z",
             "owner": "jfecher",
             "repo": "ante",
             "stars": 2333
@@ -56,7 +56,7 @@
             "last_commit": "2025-07-28T23:44:49Z",
             "owner": "austral",
             "repo": "austral",
-            "stars": 1561
+            "stars": 1569
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-06-02T10:59:50Z",
             "owner": "arturo-lang",
             "repo": "arturo",
-            "stars": 884
+            "stars": 885
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2025-02-25T11:07:38Z",
             "owner": "JetBrains",
             "repo": "Arend",
-            "stars": 755
+            "stars": 756
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2026-08-15T17:50:54Z",
             "owner": "ArkScript-lang",
             "repo": "Ark",
-            "stars": 724
+            "stars": 723
           }
         },
         {
@@ -168,7 +168,7 @@
             "last_commit": "2026-03-11T00:15:43Z",
             "owner": "arialang",
             "repo": "aria",
-            "stars": 337
+            "stars": 336
           }
         },
         {
@@ -179,7 +179,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T05:32:35Z",
+            "last_commit": "2026-08-16T15:29:37Z",
             "owner": "alantech",
             "repo": "alan",
             "stars": 322
@@ -277,7 +277,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T07:55:06Z",
+            "last_commit": "2026-08-18T14:57:25Z",
             "owner": "jasisz",
             "repo": "aver",
             "stars": 58
@@ -434,7 +434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T14:56:39.307Z",
+    "last_updated": "2026-08-18T15:05:18.485Z",
     "original_repository": "ChessMax/awesome-programming-languages",
     "original_repository_sha": "9eaf1f009d71bd2e1ac0dd88c3620310de225975",
     "enhanced_repository": "enhansome/enhansome-programming-languages",
